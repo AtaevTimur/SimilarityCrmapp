@@ -2,29 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a42c8e2-fde3-447d-b6ba-8d9297b62325" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/customer/Customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/customer/CustomerRecord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/CustomersController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/customer/Phone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/customer/PhoneRecord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/SiteController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/customers/_customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/customers/add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/console.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/crmapp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/customers/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layouts/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/customers/query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/web.php" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39e13d30c8.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39e1527ae2.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39e39672cc.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39e3a945b8.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39e4fc8695.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39e510423a.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39eec56246.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39eec83111.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39ef21b628.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e39ef362b12.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e3a14f4ae5f.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e3a15095de2.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e3a15d0a648.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e3a15e54243.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d183db018.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d184cf8b6.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1bb392e5.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1bd6fa7c.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1c6ad8d5.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1c8abdef.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1d1f3c73.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1d3ea873.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1f7a8dd7.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d1f9a3c40.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d283cfaff.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d2883ebab.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d2b98d0e0.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d2e99318b.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d2ec5b78a.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d322da740.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d32552fd4.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d34a75b00.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d3c09ee37.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d3c1c962a.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d3e7e3106.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d3e91b5fa.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d4028b8ba.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d403bc63e.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d8448e50b.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d845f174b.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d8679a08f.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d868af4a6.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4d86ad8d32.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4db6dbd80e.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4db6eacabb.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4dbbb92281.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4dbbdc3fdf.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4dbc0b4687.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4dc1c4273b.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4dc1e53539.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4dc3565789.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e4dc36657c2.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e5066fa1cd9.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e50671b6571.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e506a445083.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e506a642dcd.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e5072117a7e.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e507218c1e1.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e5072c0f821.data" afterPath="" />
+      <change type="DELETED" beforePath="D:\OpenServer\domains\crmapp\runtime\debug\54e5072e64808.data" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/ApplicationUiAssetBundle.php" afterPath="$PROJECT_DIR$/assets/ApplicationUiAssetBundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utilities/MarkdownRenderer.php" afterPath="$PROJECT_DIR$/utilities/MarkdownRenderer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/ServicesController.php" afterPath="$PROJECT_DIR$/controllers/ServicesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/SiteController.php" afterPath="$PROJECT_DIR$/controllers/SiteController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/SnowAssetsBundle.php" afterPath="$PROJECT_DIR$/assets/SnowAssetsBundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/user/UserRecord.php" afterPath="$PROJECT_DIR$/models/user/UserRecord.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utilities/YamlResponseFormatter.php" afterPath="$PROJECT_DIR$/utilities/YamlResponseFormatter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/site/docindex.md" afterPath="$PROJECT_DIR$/views/site/docindex.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/snowy/views/site/homepage.ph.php" afterPath="$PROJECT_DIR$/themes/snowy/views/site/homepage.ph.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/site/homepage.php" afterPath="$PROJECT_DIR$/views/site/homepage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/debug/index.data" afterPath="$PROJECT_DIR$/runtime/debug/index.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.php" afterPath="$PROJECT_DIR$/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layouts/main.php" afterPath="$PROJECT_DIR$/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/web.php" afterPath="$PROJECT_DIR$/config/web.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runtime/gii-2.0.2/yii-gii-generators-model-Generator.json" afterPath="$PROJECT_DIR$/runtime/gii-2.0.2/yii-gii-generators-model-Generator.json" />
     </list>
     <ignored path="crmapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +101,80 @@
     <favorites_list name="crmapp" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="UsersController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/UsersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.448276" vertical-offset="1484" max-vertical-offset="2440">
+              <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/users/_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="600">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserRecord.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/user/UserRecord.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.0689654" vertical-offset="1444" max-vertical-offset="2640">
+              <caret line="81" column="7" selection-start-line="78" selection-start-column="5" selection-end-line="81" selection-end-column="7" />
+              <folding>
+                <element signature="e#35#43#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6433824" vertical-offset="75" max-vertical-offset="1300">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m150304_183536_init_user_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/migrations/m150304_183536_init_user_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.965517" vertical-offset="0" max-vertical-offset="580">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m150305_170624_add_auth_key_to_user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/migrations/m150305_170624_add_auth_key_to_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.413794" vertical-offset="0" max-vertical-offset="480">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.413794" vertical-offset="0" max-vertical-offset="480">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -61,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/config/console.php" />
         <option value="$PROJECT_DIR$/config/db.php" />
         <option value="$PROJECT_DIR$/migrations/m150104_230314_init_customer_table.php" />
@@ -70,7 +195,6 @@
         <option value="$PROJECT_DIR$/web/.htaccess" />
         <option value="$PROJECT_DIR$/models/customer/CustomerRecord.php" />
         <option value="$PROJECT_DIR$/models/customer/PhoneRecord.php" />
-        <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/views/customers/add.php" />
         <option value="$PROJECT_DIR$/views/customers/index.php" />
         <option value="$PROJECT_DIR$/views/customers/_customer.php" />
@@ -86,8 +210,28 @@
         <option value="$PROJECT_DIR$/models/customer/Customer.php" />
         <option value="$PROJECT_DIR$/controllers/CustomersController.php" />
         <option value="$PROJECT_DIR$/migrations/m150218_181205_init_services_table.php" />
-        <option value="$PROJECT_DIR$/config/web.php" />
+        <option value="$PROJECT_DIR$/views/site/docindex.md" />
+        <option value="$PROJECT_DIR$/utilities/MarkdownRenderer.php" />
+        <option value="$PROJECT_DIR$/utilities/YamlResponseFormatter.php" />
+        <option value="$PROJECT_DIR$/web/index.php" />
+        <option value="$PROJECT_DIR$/controllers/ServicesController.php" />
+        <option value="$PROJECT_DIR$/assets/ApplicationUiAssetBundle.php" />
+        <option value="$PROJECT_DIR$/assets/ui/css/main.js" />
         <option value="$PROJECT_DIR$/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/assets/show/snow.css" />
+        <option value="$PROJECT_DIR$/themes/snowy/views/site/homepage.ph.php" />
+        <option value="$PROJECT_DIR$/assets/SnowAssetsBundle.php" />
+        <option value="$PROJECT_DIR$/views/site/homepage.php" />
+        <option value="$PROJECT_DIR$/migrations/m150304_183536_init_user_table.php" />
+        <option value="$PROJECT_DIR$/models/user/UserSearchModel.php" />
+        <option value="$PROJECT_DIR$/views/users/_search.php" />
+        <option value="$PROJECT_DIR$/views/users/index.php" />
+        <option value="$PROJECT_DIR$/views/users/view.php" />
+        <option value="$PROJECT_DIR$/controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/migrations/m150305_170624_add_auth_key_to_user.php" />
+        <option value="$PROJECT_DIR$/models/user/UserRecord.php" />
+        <option value="$PROJECT_DIR$/config/web.php" />
       </list>
     </option>
   </component>
@@ -101,6 +245,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP5" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
@@ -148,6 +293,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crmapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -164,7 +365,12 @@
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\crmapp\assets\show" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\crmapp\assets" />
+      <recent name="D:\OpenServer\domains\crmapp\assets\ui" />
       <recent name="D:\OpenServer\domains\crmapp\web" />
     </key>
   </component>
@@ -183,15 +389,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -210,31 +416,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
-    <editor active="false" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27222222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23666666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1025" y="127" width="760" height="840" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.2595949" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1025" y="127" width="760" height="840" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4059406" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -259,286 +465,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="8" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/models/customer/Customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="620">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/customer/Phone.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="320">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yii">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/console.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="420">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="420">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/m150104_230314_init_customer_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="500" max-vertical-offset="620">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/m150104_230626_init_phone_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/customer/CustomerRecord.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="580">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/customer/PhoneRecord.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="600">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="460">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34285715" vertical-offset="0" max-vertical-offset="875">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/console.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22857143" vertical-offset="0" max-vertical-offset="875">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/BaseYii.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3444577" vertical-offset="2111" max-vertical-offset="10680">
-          <caret line="128" column="27" selection-start-line="128" selection-start-column="27" selection-end-line="128" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/AssetManager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32374102" vertical-offset="7050" max-vertical-offset="10680">
-          <caret line="375" column="33" selection-start-line="375" selection-start-column="28" selection-end-line="375" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2-composer/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="868">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16686532" vertical-offset="0" max-vertical-offset="839">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/164af413/yii.activeForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12240">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Books/WebProgramming/Yii_framework/1885OS_Code/crmapp/tests/acceptance/_steps/CRMOperatorSteps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6233766" vertical-offset="0" max-vertical-offset="1040">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Books/WebProgramming/Yii_framework/1885OS_Code/crmapp/tests/acceptance/_steps/CRMUserSteps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95194805" vertical-offset="147" max-vertical-offset="1020">
-          <caret line="44" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/acceptance.suite.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/acceptance/_steps/CRMUserSteps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.51724" vertical-offset="127" max-vertical-offset="920">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/acceptance/SmokeTestCept.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21459228" vertical-offset="0" max-vertical-offset="466">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/acceptance/QueryCustomerByPhoneNumberCept.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21459228" vertical-offset="0" max-vertical-offset="660">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/bin/tests/acceptance/_steps/CRMOperatorSteps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11134454" vertical-offset="367" max-vertical-offset="1160">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/ErrorHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33193278" vertical-offset="1322" max-vertical-offset="5220">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Books/WebProgramming/Yii_framework/1885OS_Code/crmapp/models/customer/PhoneRecord.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42918456" vertical-offset="0" max-vertical-offset="520">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Books/WebProgramming/Yii_framework/1885OS_Code/crmapp/models/customer/Phone.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42918456" vertical-offset="0" max-vertical-offset="466">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/customer/Phone.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57259715" vertical-offset="0" max-vertical-offset="489">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yii">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="868">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11148272" vertical-offset="0" max-vertical-offset="897">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50691247" vertical-offset="0" max-vertical-offset="868">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/customer/CustomerRecord.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.551723" vertical-offset="0" max-vertical-offset="600">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25345623" vertical-offset="0" max-vertical-offset="868">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/m150104_230626_init_phone_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41474655" vertical-offset="0" max-vertical-offset="868">
-          <caret line="19" column="89" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/m150104_230314_init_customer_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50691247" vertical-offset="0" max-vertical-offset="868">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/customer/Customer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="620">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/customers/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="700">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33266532" vertical-offset="2794" max-vertical-offset="9860">
-          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Object.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33266532" vertical-offset="1814" max-vertical-offset="5800">
@@ -557,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35756853" vertical-offset="0" max-vertical-offset="839">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,7 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="852">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4154412" vertical-offset="2441" max-vertical-offset="4160">
           <caret line="145" column="39" selection-start-line="145" selection-start-column="15" selection-end-line="145" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,39 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41013268" vertical-offset="0" max-vertical-offset="829">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38600725" vertical-offset="0" max-vertical-offset="829">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71513706" vertical-offset="0" max-vertical-offset="839">
-          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/ServicesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="2440">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39906102" vertical-offset="0" max-vertical-offset="852">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2366864" vertical-offset="0" max-vertical-offset="540">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,9 +530,317 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55974025" vertical-offset="1169" max-vertical-offset="2060">
           <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/service/ServiceSearchModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76036865" vertical-offset="420" max-vertical-offset="1400">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/services/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4608295" vertical-offset="0" max-vertical-offset="868">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3444577" vertical-offset="1371" max-vertical-offset="4180">
+          <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34436274" vertical-offset="3519" max-vertical-offset="13180">
+          <caret line="194" column="20" selection-start-line="194" selection-start-column="20" selection-end-line="194" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3444577" vertical-offset="51" max-vertical-offset="3140">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/ViewRenderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26960784" vertical-offset="0" max-vertical-offset="816">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/services/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5882353" vertical-offset="0" max-vertical-offset="840">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/docindex.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2195122" vertical-offset="0" max-vertical-offset="820">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33248731" vertical-offset="2678" max-vertical-offset="13520">
+          <caret line="151" column="27" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26960784" vertical-offset="0" max-vertical-offset="920">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/BaseYii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7360406" vertical-offset="1380" max-vertical-offset="10680">
+          <caret line="106" column="18" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/NotFoundHttpException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26960784" vertical-offset="0" max-vertical-offset="816">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3286385" vertical-offset="0" max-vertical-offset="852">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ui/css/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022701476" vertical-offset="0" max-vertical-offset="881">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ui/js/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4482758" vertical-offset="0" max-vertical-offset="640">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11519608" vertical-offset="5346" max-vertical-offset="11000">
+          <caret line="279" column="35" selection-start-line="279" selection-start-column="35" selection-end-line="279" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/AssetBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.564951" vertical-offset="1899" max-vertical-offset="3560">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/snowy/views/site/homepage.ph.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19300362" vertical-offset="0" max-vertical-offset="829">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/SnowAssetsBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14705883" vertical-offset="0" max-vertical-offset="816">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ApplicationUiAssetBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4583836" vertical-offset="0" max-vertical-offset="829">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/snow/snow.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13620885" vertical-offset="0" max-vertical-offset="881">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="320">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37867647" vertical-offset="7071" max-vertical-offset="9860">
+          <caret line="373" column="62" selection-start-line="373" selection-start-column="62" selection-end-line="373" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/YamlResponseFormatter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42908224" vertical-offset="0" max-vertical-offset="839">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17759237" vertical-offset="2591" max-vertical-offset="9900">
+          <caret line="145" column="20" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ServicesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8088235" vertical-offset="1800" max-vertical-offset="3000">
+          <caret line="130" column="31" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/user/UserSearchModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.51724" vertical-offset="460" max-vertical-offset="1380">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/_search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.103448" vertical-offset="0" max-vertical-offset="680">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.62069" vertical-offset="0" max-vertical-offset="800">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.689655" vertical-offset="0" max-vertical-offset="820">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/MarkdownRenderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47675803" vertical-offset="0" max-vertical-offset="839">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/db/BaseActiveRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3444577" vertical-offset="16771" max-vertical-offset="30200">
+          <caret line="864" column="20" selection-start-line="864" selection-start-column="20" selection-end-line="864" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/db/ActiveRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3444577" vertical-offset="1111" max-vertical-offset="13100">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.448276" vertical-offset="1484" max-vertical-offset="2440">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.413794" vertical-offset="0" max-vertical-offset="480">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/m150304_183536_init_user_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.965517" vertical-offset="0" max-vertical-offset="580">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/m150305_170624_add_auth_key_to_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.413794" vertical-offset="0" max-vertical-offset="480">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/user/UserRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0689654" vertical-offset="1444" max-vertical-offset="2640">
+          <caret line="81" column="7" selection-start-line="78" selection-start-column="5" selection-end-line="81" selection-end-column="7" />
           <folding>
-            <element signature="e#118#151#0#PHP" expanded="true" />
+            <element signature="e#35#43#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6433824" vertical-offset="75" max-vertical-offset="1300">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>

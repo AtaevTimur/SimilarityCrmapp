@@ -6,9 +6,13 @@
  * Time: 20:32
  */
 
-namespace app\assets\show;
+namespace app\assets;
 
 
-class SnowAssetsBundle {
+use yii\web\AssetBundle;
 
+class SnowAssetsBundle extends AssetBundle {
+    public $sourcePath = '@app/assets/snow';
+    public $css = ['snow.css'];
+    public $depends = ['app\assets\ApplicationUiAssetBundle'];
 } 

@@ -1,13 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: TimmyKsu
- * Date: 04.01.2015
- * Time: 23:10
- */
-?>
-
-<?php
 define('YII_DEBUG', true);
 ini_set('display_errors', true);
 

@@ -13,14 +13,42 @@ return [
     'basePath' => realpath(__DIR__ . '/../'),
 
     'components' => [
+
         'request' => [
             'enableCsrfValidation' => false,
         ],
+
+        'response' => [
+            'formatters' => [
+                'yaml' => [
+                    'class' => 'app\utilities\YamlResponseFormatter'
+                ]
+            ]
+        ],
+
+        'user' => [
+            'identityClass' => 'app\models\user\UserRecord'
+        ],
+
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false
         ],
+
         'db' => require(__DIR__ . '/db.php'),
+
+        'view' => [
+            'renderers' => [
+                'md' => [
+                    'class' => 'app\utilities\MarkdownRenderer'
+                ]
+            ],
+            'theme' => [
+                'class' => \yii\base\Theme::className(),
+                'basePath' => '@app/themes/snowy',
+            ]
+        ],
+
     ],
 
     'bootstrap' => ['debug'],
