@@ -6,5 +6,5 @@
  * Time: 20:25
  */
 ?>
-<?php \app\assets\SnowAssetsBundle::register($this); ?>
+<?php //\app\assets\SnowAssetsBundle::register($this); ?>
 <p class="inside-snowflakes">Our CRM</p>
