@@ -13,9 +13,31 @@ use app\models\customer\Phone;
 use app\models\customer\PhoneRecord;
 use yii\data\ArrayDataProvider;
 use yii\web\Controller;
+use yii\filter\AccessControl;
 
 class CustomersController extends Controller
 {
+    public function behaviors()
+    {
+        return [
+            'access' => [
+                'class' => AccessControll::className(),
+                'rules' => [
+                    [
+                        'actions' => ['add'],
+                        'roles' => ['manager'],
+                        'allow' => true
+                    ],
+                    [
+                        'actions' => ['index', 'query'],
+                        'roles' => ['user'],
+                        'allow' => true
+                    ]
+                ],
+            ]
+        ];    
+    }
+    
     public function actionIndex()
     {
         $records = $this->findRecordsByQuery();
