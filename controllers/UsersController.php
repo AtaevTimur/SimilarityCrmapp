@@ -1,14 +1,14 @@
 <?php
 
 namespace app\controllers;
-    
+
 use Yii;
 use app\models\user\UserRecord;
 use app\models\user\UserSearchModel;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
-use yii\filters\AccessControll;
+
 /**
  * UsersController implements the CRUD actions for UserRecord model.
  */
@@ -23,13 +23,6 @@ class UsersController extends Controller
                     'delete' => ['post'],
                 ],
             ],
-            'access' => [
-                'class' => AccessControll::className(),
-                'rules' => [
-                    'roles' => ['admin'],
-                    'allow' => true
-                ],
-            ]
         ];
     }
 
