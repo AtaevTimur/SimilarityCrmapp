@@ -10,6 +10,7 @@ use yii\web\Response;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
+use yii\filters\AccessControl;
 
 /**
  * ServicesController implements the CRUD actions for ServiceRecord model.
@@ -24,6 +25,15 @@ class ServicesController extends Controller
                 'actions' => [
                     'delete' => ['post'],
                 ],
+            ],
+            'access' => [
+                'class' => AccessControl::className(),
+                'rules' => [
+                    [
+                        'roles' => ['manager'],
+                        'allow' => true
+                    ]
+                ]
             ],
         ];
     }
