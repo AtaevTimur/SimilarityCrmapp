@@ -59,6 +59,7 @@ return [
             'allowedIPs' => ['127.0.0.1'],
         ],
         'debug' => 'yii\debug\Module',
+        'api'   => 'app\api\ApiModule'
     ],
 
     'extensions' => require(__DIR__ . '/../vendor/yiisoft/extensions.php')
