@@ -8,7 +8,7 @@ use app\models\user\UserSearchModel;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
-use yii\filters\AccessControll;
+use yii\filters\AccessControl;
 /**
  * UsersController implements the CRUD actions for UserRecord model.
  */
@@ -24,7 +24,7 @@ class UsersController extends Controller
                 ],
             ],
             'access' => [
-                'class' => AccessControll::className(),
+                'class' => AccessControl::className(),
                 'rules' => [
                     'roles' => ['admin'],
                     'allow' => true

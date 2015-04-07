@@ -13,7 +13,7 @@ use app\models\customer\Phone;
 use app\models\customer\PhoneRecord;
 use yii\data\ArrayDataProvider;
 use yii\web\Controller;
-use yii\filter\AccessControl;
+use yii\filters\AccessControl;
 
 class CustomersController extends Controller
 {
@@ -21,7 +21,7 @@ class CustomersController extends Controller
     {
         return [
             'access' => [
-                'class' => AccessControll::className(),
+                'class' => AccessControl::className(),
                 'rules' => [
                     [
                         'actions' => ['add'],
@@ -35,7 +35,7 @@ class CustomersController extends Controller
                     ]
                 ],
             ]
-        ];    
+        ];
     }
     
     public function actionIndex()

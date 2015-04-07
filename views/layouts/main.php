@@ -8,8 +8,9 @@
 ?>
 <?php
     use yii\helpers\Html;
-    \app\assets\ApplicationUiAssetBundle::register($this);
+    use app\assets\AllAsset;
 ?>
+<?php AllAsset::register($this);?>
 <?php $this->beginPage(); ?>
 <!DOCTYPE html>
 <html lang="<?= Yii::$app->language; ?>">

@@ -49,6 +49,10 @@ return [
             ]
         ],
 
+        'assetManager' => [
+            'bundles' => (require __DIR__ . '/assets_compressed.php')
+        ]
+
     ],
 
     'bootstrap' => ['debug'],
